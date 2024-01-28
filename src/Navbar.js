@@ -9,14 +9,14 @@ import Footer from './Footer';
 const Navbar = () => {
     return (
         <div>
-        <div className="container-xxl bg-white p-0">
+        {/* <div className="container-fluid bg-white p-0"> */}
         {/* <div id="spinner" className="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
                 <div className="spinner-grow text-primary" style={{ width: '3rem', height: '3rem' }} role="status">
                     <span className="sr-only">Loading...</span>
                 </div>
         </div> */}
  
-        <div className="container-xxl position-relative p-0">
+        <div className="container-fluid position-relative p-0">
             <nav className="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                 <a href="" className="navbar-brand p-0">
@@ -47,7 +47,7 @@ const Navbar = () => {
                 </div>
             </nav>
 
-            <div className="container-xxl bg-primary hero-header">
+            <div className="container-fluid bg-primary hero-header">
                 <div className="container px-lg-5">
                     <div className="row g-5 align-items-end">
                         <div className="col-lg-6 text-center text-lg-start">
@@ -68,7 +68,7 @@ const Navbar = () => {
 
 
 
-<div className="container-xxl py-5">
+<div className="container-fluid py-5">
     <div className="container py-5 px-lg-5">
         <div className="row g-4">
             <div className="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -97,7 +97,7 @@ const Navbar = () => {
 </div>
 
 
-<div className="container-xxl py-5">
+<div className="container-fluid py-5">
     <div className="container py-5 px-lg-5">
         <div className="row g-5 align-items-center">
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -150,7 +150,7 @@ const Navbar = () => {
     </div>
 </div>
 
-<div className="container-xxl bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div className="container-fluid bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div className="container py-5 px-lg-5">
         <div className="row g-4">
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
@@ -178,7 +178,7 @@ const Navbar = () => {
 </div>
 
 
-<div className="container-xxl py-5">
+<div className="container-fluid py-5">
     <div className="container py-5 px-lg-5">
         <div className="wow fadeInUp" data-wow-delay="0.1s">
             <p className="section-title text-secondary justify-content-center"><span></span>Our Services<span></span></p>
@@ -262,8 +262,8 @@ const Navbar = () => {
 <Testimonial />
 <Footer />
 
-
-</div>
+{/* 
+</div> */}
 </div>
 
     );
