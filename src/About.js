@@ -139,7 +139,7 @@ const About = () => {
                         <a href="" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill mt-3">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/about.jpg" alt="" />
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/about.jpg" alt="" style={{ 'width': '550px', 'height': '500px' }} />
                     </div>
                 </div>
             </div>
