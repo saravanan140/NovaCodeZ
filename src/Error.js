@@ -30,19 +30,8 @@ const Error = () => {
                         {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                         <a href="/project" class="nav-item nav-link">Project</a>
                         {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                        <div class="nav-item dropdown">
-                            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                            <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Pages</a>
-                            <div class="dropdown-menu m-0">
-                                {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                                <a href="team.html" class="dropdown-item">Our Team</a>
-                                {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                                <a href="404.html" class="dropdown-item active">404 Page</a>
-                            </div>
-                        </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        
+                        <a href="/contact" class="nav-item nav-link">Contact</a>
                     </div>
                      {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                     <a href="" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Get Started</a>
@@ -81,7 +70,7 @@ const Error = () => {
                         <h1 class="mb-4">Page Not Found</h1>
                         <p class="mb-4">We’re sorry, the page you have looked for does not exist in our website! Maybe go to our home page or try to use a search?</p>
                         {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                        <a class="btn btn-primary rounded-pill py-3 px-5" href="">Go Back To Home</a>
+                        <a class="btn btn-primary rounded-pill py-3 px-5" href="/">Go Back To Home</a>
                     </div>
                 </div>
             </div>
@@ -92,9 +81,9 @@ const Error = () => {
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Address<span></span></p>
-                        <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                        <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <p><i class="fa fa-map-marker-alt me-3"></i>13/1 Thanikasalam Street,Perambur,Chennai-11</p>
+                        <p><i class="fa fa-phone-alt me-3"></i>+91 63798 37692 and +91 86100 51856</p>
+                        <p><i class="fa fa-envelope me-3"></i>novacodez24@gmail.coms</p>    
                         <div class="d-flex pt-2">
                             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
