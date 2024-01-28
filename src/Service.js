@@ -16,7 +16,7 @@ const Service = () => {
       };
 
     return (
-        <div class="container-xxl bg-white p-0">
+        <div class="container-fluid bg-white p-0">
 
         {/* <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-grow text-primary" style={{ 'width' : '3rem', 'height': '3rem' }} role="status">
@@ -24,7 +24,7 @@ const Service = () => {
             </div>
         </div> */}
 
-        <div class="container-xxl position-relative p-0">
+        <div class="container-fluid position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                 <a href="" class="navbar-brand p-0">
@@ -52,7 +52,7 @@ const Service = () => {
                 </div>
             </nav>
 
-            <div class="container-xxl py-5 bg-primary hero-header">
+            <div class="container-fluid py-5 bg-primary hero-header">
                 <div class="container my-5 py-5 px-lg-5">
                     <div class="row g-5 py-5">
                         <div class="col-12 text-center">
@@ -75,7 +75,7 @@ const Service = () => {
             </div>
         </div>
 
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-5">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>Our Services<span></span></p>
@@ -157,7 +157,7 @@ const Service = () => {
                 </div>
             </div>
         </div>
-        <div class="container-xxl bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container-fluid bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-7 text-center">
@@ -173,7 +173,7 @@ const Service = () => {
             </div>
         </div>
 
-        {/* <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+        {/* <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <p class="section-title text-secondary justify-content-center"><span></span>Testimonial<span></span></p>
                 <h1 class="text-center mb-5">What Say Our Clients!</h1>
