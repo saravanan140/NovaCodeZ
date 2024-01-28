@@ -6,7 +6,7 @@ const About = () => {
       };
 
     return(
-        <div class="container-xxl bg-white p-0">
+        <div class="container-fluid bg-white p-0">
 
         {/* <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-grow text-primary" style={{ 'width' : '3rem', 'height': '3rem'}} role="status">
@@ -14,7 +14,7 @@ const About = () => {
             </div>
         </div> */}
 
-        <div class="container-xxl position-relative p-0">
+        <div class="container-fluid position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                 <a href="" class="navbar-brand p-0">
@@ -41,7 +41,7 @@ const About = () => {
                 </div>
             </nav>
 
-            <div class="container-xxl py-5 bg-primary hero-header">
+            <div class="container-fluid py-5 bg-primary hero-header">
                 <div class="container my-5 py-5 px-lg-5">
                     <div class="row g-5 py-5">
                         <div class="col-12 text-center">
@@ -64,7 +64,7 @@ const About = () => {
             </div>
         </div>
 
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-5">
             <div class="container py-5 px-lg-5">
                 <div class="row g-4">
                 <div className="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -92,7 +92,7 @@ const About = () => {
             </div>
         </div>
 
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-5">
             <div class="container py-5 px-lg-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -145,7 +145,7 @@ const About = () => {
             </div>
         </div>
 
-        <div class="container-xxl bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container-fluid bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
@@ -172,7 +172,7 @@ const About = () => {
             </div>
         </div>
 
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-5">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>Our Team<span></span></p>
