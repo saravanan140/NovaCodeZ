@@ -102,7 +102,7 @@ const Navbar = () => {
         <div className="row g-5 align-items-center">
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                 <p className="section-title text-secondary">About Us<span></span></p>
-                <h1 className="mb-5">#1 Digital solution with 15+ years of experience</h1>
+                <h1 className="mb-5">#1 Digital solution with 1+ years of experience</h1>
                 <p className="mb-4">Welcome to <b>NovaCodeZ</b>, where innovation meets experience to redefine digital excellence. As a pioneering force in the industry, we have proudly held the position as the #1 digital solution provider for over 15 years.</p>
                 <div className="skill mb-4">
                     <div className="d-flex justify-content-between">
@@ -119,7 +119,7 @@ const Navbar = () => {
                         <p className="mb-2">90%</p>
                     </div>
                     <div className="progress">
-                        <div className="progress-bar bg-secondary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ 'width' : '90%'}}></div>
+                        <div className="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ 'width' : '90%'}}></div>
                     </div>
                 </div>
                 <div className="skill mb-4">
@@ -137,7 +137,7 @@ const Navbar = () => {
                         <p className="mb-2">90%</p>
                     </div>
                     <div className="progress">
-                        <div className="progress-bar bg-secondary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ 'width' : '90%'}}></div>
+                        <div className="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ 'width' : '90%'}}></div>
                     </div>
                 </div>
                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
@@ -155,22 +155,22 @@ const Navbar = () => {
         <div className="row g-4">
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
                 <i className="fa fa-certificate fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">15+</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">1+</h1>
                 <p className="text-white mb-0">Years Experience</p>
             </div>
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                 <i className="fa fa-users-cog fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">200</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">15</h1>
                 <p className="text-white mb-0">Team Members</p>
             </div>
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                 <i className="fa fa-users fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">574</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">20</h1>
                 <p className="text-white mb-0">Satisfied Clients</p>
             </div>
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                 <i className="fa fa-check fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">274</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">14</h1>
                 <p className="text-white mb-0">Compleate Projects</p>
             </div>
         </div>
