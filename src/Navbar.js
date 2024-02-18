@@ -102,7 +102,7 @@ const Navbar = () => {
         <div className="row g-5 align-items-center">
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                 <p className="section-title text-secondary">About Us<span></span></p>
-                <h1 className="mb-5">#1 Digital solution with 1+ years of experience</h1>
+                <h1 className="mb-5">#1 Digital solution with 3+ years of experience</h1>
                 <p className="mb-4">Welcome to <b>NovaCodeZ</b>, where innovation meets experience to redefine digital excellence. As a pioneering force in the industry, we have proudly held the position as the #1 digital solution provider for over 15 years.</p>
                 <div className="skill mb-4">
                     <div className="d-flex justify-content-between">
@@ -155,7 +155,7 @@ const Navbar = () => {
         <div className="row g-4">
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
                 <i className="fa fa-certificate fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">1+</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">3+</h1>
                 <p className="text-white mb-0">Years Experience</p>
             </div>
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
