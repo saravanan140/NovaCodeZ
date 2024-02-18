@@ -160,17 +160,17 @@ const Navbar = () => {
             </div>
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                 <i className="fa fa-users-cog fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">15</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">25</h1>
                 <p className="text-white mb-0">Team Members</p>
             </div>
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                 <i className="fa fa-users fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">20</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">60+</h1>
                 <p className="text-white mb-0">Satisfied Clients</p>
             </div>
             <div className="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                 <i className="fa fa-check fa-3x text-secondary mb-3"></i>
-                <h1 className="text-white mb-2" data-toggle="counter-up">14</h1>
+                <h1 className="text-white mb-2" data-toggle="counter-up">100+</h1>
                 <p className="text-white mb-0">Compleate Projects</p>
             </div>
         </div>
