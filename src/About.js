@@ -182,7 +182,7 @@ const About = () => {
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4"  src="./img/team-1.jpg" alt="" />
+                                <img class="img-fluid rounded-circle mb-4"  src="./img/default.jpeg" alt="" />
                                 <h5>Saravanan A</h5>
                                 <span>CEO & Founder</span>
                             </div>
@@ -201,7 +201,7 @@ const About = () => {
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4"  src="./img/team-2.jpg" alt="" style={{ 'width': '380px', 'height': '330px' }} />
+                                <img class="img-fluid rounded-circle mb-4"  src="./img/default.jpeg" alt=""  />
                                 <h5>Vinoth Kumar L</h5>
                                 <span>CFO & Developer and Data Analyst</span>
                             </div>
@@ -220,7 +220,7 @@ const About = () => {
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="./img/team-3.jpg" alt="" style={{ 'width': '380px', 'height': '330px' }} />
+                                <img class="img-fluid rounded-circle mb-4" src="./img/default.jpeg" alt=""  />
                                 <h5>Askar Basha R </h5>
                                 <span>Designer & Data Analyst</span>
                             </div>
