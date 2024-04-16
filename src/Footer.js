@@ -17,7 +17,7 @@ const Footer = () => {
                 <div className="row g-5">
                     <div className="col-md-6 col-lg-3">
                         <p className="section-title text-white h5 mb-4">Address<span></span></p>
-                        <p><i className="fa fa-map-marker-alt me-3">13/1 Thanikasalam Street,Perambur,Chennai-11</i></p>
+                        <p><i className="fa fa-map-marker-alt me-3">Perambur,Chennai-11</i></p>
                         <p><i className="fa fa-phone-alt me-3">+91 63798 37692 and +91 86100 51856</i></p>
                         <p><i className="fa fa-envelope me-3"></i>novacodez24@gmail.com</p>
                         <div className="d-flex pt-2">
