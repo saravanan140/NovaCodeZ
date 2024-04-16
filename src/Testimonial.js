@@ -37,7 +37,7 @@ const Testimonial = () => {
         <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div className="team-item bg-light rounded">
                 <div className="text-center border-bottom p-4">
-                    <img className="img-fluid rounded-circle mb-4" src={team2} alt="" style={{ 'width': '380px', 'height': '330px' }} />
+                    <img className="img-fluid rounded-circle mb-4" src={team2} alt=""  />
                     <h5>VINOTH KUMAR L</h5>
                     <span>CFO & Developer and Data Analyst</span>
                 </div>
@@ -58,7 +58,7 @@ const Testimonial = () => {
         <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div className="team-item bg-light rounded">
                 <div className="text-center border-bottom p-4">
-                    <img className="img-fluid rounded-circle mb-4" src={team3} alt="" style={{ 'width': '380px', 'height': '330px' }} />
+                    <img className="img-fluid rounded-circle mb-4" src={team3} alt=""  />
                     <h5>ASKAR BASHA R</h5>
                     <span>Designer & Data Analyst</span>
                 </div>
