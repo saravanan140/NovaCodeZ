@@ -1,8 +1,6 @@
-import team1 from'{team1}'
-import team2 from'{team1}'
-import team3 from'{team1}'
-
-
+import team1 from'./img/default.jpeg'
+import team2 from'./img/default.jpeg'
+import team3 from'./img/default.jpeg'
 
 const About = () => {
 
@@ -189,7 +187,7 @@ const About = () => {
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4"  src="{team1}" alt="" />
+                                <img class="img-fluid rounded-circle mb-4"  src={team1} alt="" />
                                 <h5>Saravanan A</h5>
                                 <span>CEO & Founder</span>
                             </div>
@@ -208,7 +206,7 @@ const About = () => {
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4"  src="{team1}" alt=""  />
+                                <img class="img-fluid rounded-circle mb-4"  src={team1} alt=""  />
                                 <h5>Vinoth Kumar L</h5>
                                 <span>CFO & Developer and Data Analyst</span>
                             </div>
@@ -227,7 +225,7 @@ const About = () => {
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="{team1}" alt=""  />
+                                <img class="img-fluid rounded-circle mb-4" src={team1} alt=""  />
                                 <h5>Askar Basha R </h5>
                                 <span>Designer & Data Analyst</span>
                             </div>
