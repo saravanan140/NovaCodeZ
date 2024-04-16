@@ -18,7 +18,7 @@ const Testimonial = () => {
         <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div className="team-item bg-light rounded">
                 <div className="text-center border-bottom p-4">
-                    <img className="img-fluid rounded-circle mb-4" src={team1} alt="" />
+                    <img className="img-fluid rounded-circle mb-4" src={team2} alt="" />
                     <h5>SARAVANAN A</h5>
                     <span>CEO & Founder</span>
                 </div>
