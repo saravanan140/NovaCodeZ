@@ -56,7 +56,10 @@ const Navbar = () => {
                             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                             <a href="/about" className="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Read More</a>
                             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                            <a href="/contact" className="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a>
+                            <a href="https://wa.me/916379837692?text=Hello%2C%20I%20found%20your%20business%20on%20your%20website" className="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a>
+
+                            
+
                         </div>
                         <div className="col-lg-6 text-center text-lg-start">
                             <img className="img-fluid animated zoomIn" src={hero} alt="" />
